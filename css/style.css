@@ -88,13 +88,6 @@ article p{
 .news article:nth-child(2n) {
   background-color: #d8dede3d;
 }
-/* .new{
-  background-color: #119b85;
-  border-radius: 10%;
-  padding: 5px 10px;
-  margin-right: 10px;
-  color: white;
-} */
 .news article:nth-child(-n+2):before {
   content: "new";
   background-color: #119b85;
